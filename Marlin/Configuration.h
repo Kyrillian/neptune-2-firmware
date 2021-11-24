@@ -2159,7 +2159,7 @@
 
 //
 // SPEAKER/BUZZER
-//
+//https://reprapworld.com/?products_details&products_id/1218
 // If you have a speaker that can produce tones, enable it here.
 // By default Marlin assumes you have a buzzer with a fixed frequency.
 //
@@ -2353,7 +2353,7 @@
 
 //
 // ReprapWorld Graphical LCD
-// https://reprapworld.com/?products_details&products_id/1218
+// 
 //
 //#define REPRAPWORLD_GRAPHICAL_LCD
 
