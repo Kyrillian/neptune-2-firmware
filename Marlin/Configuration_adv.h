@@ -2180,7 +2180,7 @@
  * Emergency Command Parser
  *
  * Add a low-level parser to intercept certain commands as they
- * enter the serial receive buffer, so they cannot be blocked.
+ * enter the serial receive buffer, so they can't be blocked.
  * Currently handles M108, M112, M410, M876
  * NOTE: Not yet implemented for all platforms.
  */
